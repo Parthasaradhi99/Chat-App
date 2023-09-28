@@ -26,9 +26,5 @@ Tech stack
 
 ![1012818_code_development_logo_nodejs_icon](https://github.com/Parthasaradhi99/Chat-App/assets/98767810/4de77b4d-4261-48bb-88e7-9ca98ea98c3f)
 
-![371476](https://github.com/Parthasaradhi99/Chat-App/assets/98767810/ca62bde9-b9f3-4f44-ba19-611854e2bc21)<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-
-
-![Socket Io](https://github.com/Parthasaradhi99/Chat-App/assets/98767810/40fc9e8a-7b3d-4f48-8ae4-10e5c828f6f4)
 
 ![icons8-express-js-50](https://github.com/Parthasaradhi99/Chat-App/assets/98767810/b9f1c3e8-4189-455f-b2b9-478a142ffdce)
