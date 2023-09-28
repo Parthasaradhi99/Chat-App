@@ -17,3 +17,6 @@ How to setup the environment
 5. Also download the .env where mongoDB url is present 
 
 Used SocketIO for real time messaging 
+
+Tech stack
+![1174949_js_react js_logo_react_react native_icon](https://github.com/Parthasaradhi99/Chat-App/assets/98767810/92d20db7-7e36-417a-8927-e8f24cc76ef2)
